@@ -1,3 +1,3 @@
 # Project UAS
 
-Tinggalkan Catatan, demi kebaikan bersama
+Tinggalkan Catatan per proges, demi kebaikan bersama
